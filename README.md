@@ -50,4 +50,7 @@ The best solution is stored in a text file, and detailed daily timetables are ge
 2. Run the main script to generate the timetable.
 3. View the output timetables in the generated text file.
 
+[Read the detailed project report here](https://drive.google.com/file/d/1FywTfrVanT89kCZtqZzy1VxISYMTSlnj/view?usp=sharing)
+
+
 
